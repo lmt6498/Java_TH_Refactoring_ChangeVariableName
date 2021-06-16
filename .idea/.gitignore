@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../apj-calculator-develop\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../:\JavaProject\apj-calculator-develop\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
